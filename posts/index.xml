@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 城识的博客</title>
+    <link>https://blog.chengshi95.top/posts/</link>
+    <description>Recent content in Posts on 城识的博客</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 16:56:08 +0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.chengshi95.top/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>制作永生花</title>
-      <link>https://example.org/posts/%E5%88%B6%E4%BD%9C%E6%B0%B8%E7%94%9F%E8%8A%B1/</link>
+      <link>https://blog.chengshi95.top/posts/%E5%88%B6%E4%BD%9C%E6%B0%B8%E7%94%9F%E8%8A%B1/</link>
       <pubDate>Fri, 14 Feb 2025 16:56:08 +0800</pubDate>
-      <guid>https://example.org/posts/%E5%88%B6%E4%BD%9C%E6%B0%B8%E7%94%9F%E8%8A%B1/</guid>
+      <guid>https://blog.chengshi95.top/posts/%E5%88%B6%E4%BD%9C%E6%B0%B8%E7%94%9F%E8%8A%B1/</guid>
       <description>&lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;&#xA;&lt;p&gt;今天是情人节，准备给对象做一个情人节礼物。想到她最喜欢《间谍过家家》这部动漫，计划给她做一个可观赏的永生花摆件。在摆件中，永生花指的是经过特殊处理后能够长期保持鲜艳和形状的花朵，保留了鲜花的自然色彩和形状，视觉效果逼真。与鲜花不同，永生花无需日常维护，适合长时间摆放。&lt;/p&gt;&#xA;&lt;h1 id=&#34;物料清单&#34;&gt;物料清单&lt;/h1&gt;&#xA;&lt;p&gt;所有物料采购自万能的淘宝&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/ab46369b901e09c2a9147ae1aa402269.png&#34; alt=&#34;物料清单&#34;&gt;&#xA;这里解释一下不同的物料有什么作用：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;永生花，这就不解释了，一般提供的花料有几种，通常会包含一至两朵的主花（完整的玫瑰或者其他花），辅料（树叶、小草、特色装饰品）&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/89220833b699b39f4c1d2ebdeac4f9c8.png&#34; alt=&#34;永生花料包&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;胶水及胶棒，考虑到需要粘贴小草和花泥，需要购买胶水和胶棒进行辅助粘贴。胶棒的主要成分通常是热塑性树脂，需要配合胶枪加热使用，胶水通常是液态或半固态，需要自然晾干。胶棒的优势在于加热后可以立即凝固，节省时间。&lt;/li&gt;&#xA;&lt;li&gt;花泥，我的理解花泥就是一个泡沫塑料，可以用刀修剪成各种形状。这里需要注意的是，干花泥本身使用&lt;strong&gt;非常细小&lt;/strong&gt;的塑料颗粒制成，切割的过程中会产生粉尘，&lt;strong&gt;一定一定&lt;/strong&gt;要在通风的地方进行切割和使用，并且佩戴&lt;strong&gt;防尘口罩&lt;/strong&gt;，谨防吸入细小颗粒&lt;/li&gt;&#xA;&lt;li&gt;底座，用来摆放摆件和花泥，要注意底座分为球形和筒型两种，球形的特点是口小容量大，直筒型的特点是整体是垂直的，两者最大的区别就在于盖上的时候，球形可以用手拢住花材，盖上盖子后花材可以自然展开。而筒形不行，盖上后花材可能因为空间限制无法展开，如果不太确定两者的区别，可以上淘宝看一下。&lt;/li&gt;&#xA;&lt;li&gt;阿尼亚的手办，选用的是泡泡玛特家的阿尼亚，这里有个省钱小技巧，可以直接到淘宝买指定款，比硬抽便宜，非热门款式还能打折，适合脸黑的非酋。&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/46bbf1e8e41ab9b902c8bf35cc04eb31.png&#34; alt=&#34;阿尼亚购买记录&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;开始制作&#34;&gt;开始制作&lt;/h1&gt;&#xA;&lt;p&gt;物料到齐之后开始进行制作，这里上一张全材料图&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/fb447c6d5e39df801f30ecbe1f20d0a7.png&#34; alt=&#34;全材料图&#34;&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;第一步是需要确定花泥的大小，同时确定摆件的位置，我采用的方案是用两块花泥把摆件垫高，方便鲜花从侧面插入，因此需要确定花泥的大小和摆件相对于花泥的位置。&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/22bdc41dded2cca49e0d8799899a3bde.jpg&#34; alt=&#34;挖孔固定&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;使用小刀在花泥中挖一个孔用于固定摆件，这里直接利用摆件自带的底座进行固定，后期直接在底座下方粘贴胶棒即可进行固定。&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/afefb57829d60b48facf7acc16d809d7.jpg&#34; alt=&#34;固定摆件&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;固定完成后放到底座上测量一下高度是否太高，要考虑玻璃盖的高度，防止玻璃罩无法合上。&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/f717c12fded640631e06361c352d0414.jpg&#34; alt=&#34;测量摆件高度&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;完成测量之后使用胶棒开始固定花泥和底座&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/7a2283581da05aa7db72a9ce1b6d41c6.jpg&#34; alt=&#34;胶枪固定&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;底座固定完成后使用胶枪继续在底座上粘贴小草装饰&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/302c2adf1b34b2b876203389fc47e3f6.jpg&#34; alt=&#34;粘贴小草装饰&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;粘贴到一半发现小熊掉下来了，也给小熊粘一点胶&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/f494c5be5ca1ac212f3b5e489262aadf.jpg&#34; alt=&#34;加固小熊&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;增加其他装饰，同时把多余的小草都粘到花泥上&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/08c02cda97ecf32640c3704e6abe8dfc.jpg&#34; alt=&#34;增加装饰&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;过程就不赘述了，直接上成品&#xA;&lt;img src=&#34;https://image.chengshi95.top/2025/02/186192ba142d24b6677df9615ac19146.jpg&#34; alt=&#34;成品展示&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;总结&#34;&gt;总结&lt;/h1&gt;&#xA;&lt;p&gt;总体而言，永生花摆件的制作还是比较容易的，需要考虑的地方集中在底座大小和玻璃盖的选型上，可以看到我在阿尼亚手办后面增加了两个绿叶装饰，却因为高度问题被压变形了，球形摆件尤其要注意高度问题。&#xA;当然，女朋友对这个情人节礼物表示高度满意，也给其他男同胞们在情人节礼品上提供一个方向，实在不知道送什么就亲手做一个摆件吧。&lt;/p&gt;</description>
     </item>
   </channel>
